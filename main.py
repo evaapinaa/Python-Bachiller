@@ -2,8 +2,6 @@
 ------------------------------------------------------------PRESENTACIÓN----------------------------------------------------------------------------
  Vamos a realizar un programa con la finalidad de convertir las unidades de algunas magnitudes físicas en las del S.I.
  y, así, facilitar la resolución de múltiples ejercicios de Física y Química.
- No obstante, está limitado y faltarían ciertas unidades (v.gr. en la masa solo se pueden introducir gramos para convertirlos a Kg).
- Podría solucionarse mediante el empleo de Checkbuttons (Botones seleccionables) y condicionales, para poder añadir más posibilidades (cm, mm...)
  Referencia, código final de la página: https://docs.hektorprofe.net/python/interfaces-graficas-con-tkinter/widget-button-boton/
  ---------------------------------------------------------------------------------------------------------------------------------------------------
 """
